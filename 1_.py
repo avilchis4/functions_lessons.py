@@ -68,10 +68,10 @@
 
 # functions wont work unless you call them
 
-print(add(1,2))
-print(subtract(1,2))
-print(multiply(1,2))
-print(divide(1,2))
+# print(add(1,2))
+# print(subtract(1,2))
+# print(multiply(1,2))
+# print(divide(1,2))
 
 def create_name(first, last):
     first = first.capitalize()
